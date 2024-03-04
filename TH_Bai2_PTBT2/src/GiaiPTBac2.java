@@ -1,5 +1,3 @@
-package vckhoa;
-
 public class GiaiPTBac2 {
 
 	public static void main(String[] args) {
